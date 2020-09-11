@@ -1,0 +1,16 @@
+5
+I
+am
+an
+awesome
+guy
+1 2 o
+1 1 x
+2 3 o
+2 2 x
+3 4 o
+3 3 x
+4 5 o
+4 4 x
+5 0 o
+5 5 x

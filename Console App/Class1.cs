@@ -121,7 +121,6 @@ namespace FiniteStateMachine
                     fsmSize = n;
                     //Read the next 'n' lines containing Regex for each state.
                     Graph = new int[n+1, 2];
-                    Graph[0, 1] = 1;
                     values = new Regex[n+1];
                     result = new string[n];
 
