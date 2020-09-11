@@ -17,4 +17,4 @@ In a finite state machine, you can define multiple states, and their transition 
 
 For the above example, we can create a finite state machine like this -
 
-[!finite state machine example one](docs/example_01.png)
+![finite state machine example one](docs/example_01.png)
